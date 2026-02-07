@@ -23,6 +23,7 @@ const images = [
   { id: 7, src: img7, title: "Always You, Always Us 🌹" },
 ];
 
+
 const Hero = () => {
   const [showGallery, setShowGallery] = useState(false);
   const [selectedImg, setSelectedImg] = useState(null);
