@@ -6,12 +6,12 @@ import GallerySection from "./GallerySection";
 import ImageModal from "./ImageModal";
 
 import img1 from "../assets/img.jpg";
-import img2 from "../assets/img2.jpg";
-import img3 from "../assets/img3.jpg";
-import img4 from "../assets/img4.jpg";
-import img5 from "../assets/img5.jpg";
-import img6 from "../assets/img6.jpg";
-import img7 from "../assets/img7.jpg";
+import img2 from "../assets/img.jpg";
+import img3 from "../assets/img.jpg";
+import img4 from "../assets/img.jpg";
+import img5 from "../assets/img.jpg";
+import img6 from "../assets/img.jpg";
+
 
 const images = [
   { id: 1, src: img1, title: "My Favourite Smile ❤️" },
@@ -20,7 +20,6 @@ const images = [
   { id: 4, src: img4, title: "Moments I Never Want to Forget ✨" },
   { id: 5, src: img5, title: "You Make My World Beautiful 🌍" },
   { id: 6, src: img6, title: "With You, Everything Feels Right 💖" },
-  { id: 7, src: img7, title: "Always You, Always Us 🌹" },
 ];
 
 
